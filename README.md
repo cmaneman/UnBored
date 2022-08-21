@@ -14,3 +14,6 @@ https://www.bing.com/images/search?view=detailV2&ccid=Lo0Bv5SI&id=050A4DC4C16273
 
 -UML Diagram V1
 https://lucid.app/lucidchart/db0ec481-2358-450a-acd5-c783b71384ad/edit?invitationId=inv_ca7ddf1e-f325-4d7a-866c-e6f8f381c78f#
+
+-Razor 
+https://dotnet.microsoft.com/en-us/learn/aspnet/hello-world-tutorial/intro
