@@ -1,4 +1,5 @@
 # UnBored
+The cure boredom at the click of a button.
 
 ## Framework
 * Razor
