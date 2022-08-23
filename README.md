@@ -18,3 +18,6 @@ https://lucid.app/lucidchart/db0ec481-2358-450a-acd5-c783b71384ad/edit?invitatio
 
 -Razor 
 https://dotnet.microsoft.com/en-us/learn/aspnet/hello-world-tutorial/intro
+
+-Articles based on ASP.NET Core projects created with individual user accounts
+https://docs.microsoft.com/en-us/aspnet/core/security/authentication/individual?view=aspnetcore-6.0
