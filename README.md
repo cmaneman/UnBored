@@ -21,3 +21,6 @@ https://dotnet.microsoft.com/en-us/learn/aspnet/hello-world-tutorial/intro
 
 -Articles based on ASP.NET Core projects created with individual user accounts
 https://docs.microsoft.com/en-us/aspnet/core/security/authentication/individual?view=aspnetcore-6.0
+
+-Docker Support?
+https://www.softwarepronto.com/2022/02/docker-containerizing-visual-studio.html#:~:text=When%20a.NET%206%2C%20ASP.NET%20Core%20project%20is%20created,Docker%20support%20to%20the%20ASP.NET%20core%20web%20application.
