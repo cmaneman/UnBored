@@ -1,4 +1,6 @@
-﻿// Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
+﻿//Very simple way of using a button for this project...
 
-// Write your JavaScript code.
+document.getElementById("Taskbutton").onclick = function ()
+{
+    alert("Go for a Walk for 30 mins!");
+}
