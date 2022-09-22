@@ -1,0 +1,142 @@
+//Categories: Health, Chores, Essentials, Activity, Productivity
+[
+  {
+    "Task_name": "Watch A Movie",
+    "Task_category": "Activity",
+    "Time_in_Min": 90,
+    "Difficlty": "Easy",
+    "id": 1
+  },
+
+  {
+    "Task_name": "Read a Book",
+    "Task_category": "Activity",
+    "Time_in_Min": 30, //Up to the user
+    "Difficlty": "Easy",
+    "id": 2
+  },
+
+  {
+    "Task_name": "Go_for_a_Walk",
+    "Task_category": "Health",
+    "Time_in_Min": 30, //Up to the user
+    "Difficlty": "Easy",
+    "id": 3
+  },
+
+  {
+    "Task_name": "Learn Something New",
+    "Task_category": "Productivity",
+    "Time_in_Min": 15,
+    "Difficlty": "Intermediate",
+    "id": 4
+  },
+
+  {
+    "Task_name": "Hang out with a Friend",
+    "Task_category": "Activity",
+    "Time_in_Min": 60,
+    "Difficlty": "Intermediate",
+    "id": 5
+  },
+
+  {
+    "Task_name": "Talk to Someone New Today",
+    "Task_category": "Essentials",
+    "Time_in_Min": 5,
+    "Difficlty": "Hard",
+    "id": 6
+  },
+
+  {
+    "Task_name": "Do Some Laundry Today",
+    "Task_category": "Chore",
+    "Time_in_Min": 180,
+    "Difficlty": "Intermediate",
+    "id": 7
+  },
+
+  {
+    "Task_name": "Look up a Cooking Recipe and Follow it",
+    "Task_category": "Productivity",
+    "Time_in_Min": 60,
+    "Difficlty": "Hard",
+    "id": 8
+  },
+
+  {
+    "Task_name": "Prepare for Tomorrow",
+    "Task_category": "Productivity",
+    "Time_in_Min": 20,
+    "Difficlty": "Easy",
+    "id": 9
+  },
+
+  {
+    "Task_name": "Clean Something in your Residence",
+    "Task_category": "Chore",
+    "Time_in_Min": 20,
+    "Difficlty": "Intermediate",
+    "id": 10
+  },
+  {
+    "Task_name": "Pick up a New Hobby",
+    "Task_category": "Productivity",
+    "Time_in_Min": 60,
+    "Difficlty": "Hard",
+    "id": 11
+  },
+  {
+    "Task_name": "Pick up a New Hobby",
+    "Task_category": "Productivity",
+    "Time_in_Min": 60,
+    "Difficlty": "Hard",
+    "id": 12
+  },
+  {
+    "Task_name": "You Choose What to do",
+    "Task_category": "Activity",
+    "Time_in_Min": 60,
+    "Difficlty": "Easy",
+    "id": 13
+  },
+
+  {
+    "Task_name": "Do a Tech Fast if Possible",
+    "Task_category": "Health",
+    "Time_in_Min": 480,
+    "Difficlty": "Easy",
+    "id": 14
+  },
+
+  {
+    "Task_name": "Go Grocery Shopping",
+    "Task_category": "Essentials",
+    "Time_in_Min": 120,
+    "Difficlty": "Easy",
+    "id": 15
+  },
+  {
+    "Task_name": "Go Shopping for Yourself",
+    "Task_category": "Activity",
+    "Time_in_Min": 180,
+    "Difficlty": "Easy",
+    "id": 16
+  }
+
+]
+
+/*
+
+Watch a movie ---
+Go for a walk
+Find a good book to read
+Learn something new
+Do something you normally don't do
+Hang out with a friend
+Make a new friend, Step out of your confort zone
+Do a chore
+Try to cook by following a recipe(Don't burn the house down. Get assistance is needed)
+Reorganise a part of the house
+
+*/
