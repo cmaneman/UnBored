@@ -1,0 +1,26 @@
+{
+  "Health": [
+    {
+    "task_name": "Drink Water",
+    "time_to_complete": "1m",
+    "difficulty": "easy"
+    },
+    {
+    "task_name": "Take a walk",
+    "time_to_complete": "5m",
+    "difficulty", "easy"
+    },
+  ],
+  "Chores": [
+    {
+    "task_name": "Clean your room",
+    "time_to_complete": "15m",
+    "difficulty", "medium"
+    },
+    {
+    "task_name": "Scrub the walls",
+    "time_to_complete": "1h",
+    "difficulty", "hard"
+    },
+  ]
+}
