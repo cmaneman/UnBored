@@ -6,23 +6,23 @@
     {
       "Task_name": "Watch A Movie",
       "Task_category": "Activity",
-      "Time_in_Min": 90,
+      "Time_in_Min": "90", //Changed from int to string to fit the Dictionary/Hasp Map pattern...
       "Difficlty": "Easy",
-      "id": 1
+      "id": "1" //This too
     },
     {
       "Task_name": "Go_for_a_Walk",
       "Task_category": "Health",
-      "Time_in_Min": 30, //Up to the user
+      "Time_in_Min": "30", //Up to the user...Changed from int to string to fit the Dictionary/Hasp Map pattern...
       "Difficlty": "Easy",
-      "id": 3
+      "id": "3" //This too
     },
     {
       "Task_name": "Do a Tech Fast if Possible",
       "Task_category": "Health",
-      "Time_in_Min": 480,
+      "Time_in_Min": "480", //Changed from int to string to fit the Dictionary/Hasp Map pattern...
       "Difficlty": "Easy",
-      "id": 14
+      "id": "14" //This too
     }
 
   ],
@@ -31,17 +31,17 @@
 
       "Task_name": "Do Some Laundry Today",
       "Task_category": "Chore",
-      "Time_in_Min": 180,
+      "Time_in_Min": "180", //Changed from int to string to fit the Dictionary/Hasp Map pattern...
       "Difficlty": "Intermediate",
-      "id": 7
+      "id": "7" //This too
     },
 
     {
       "Task_name": "Clean Something in your Residence",
       "Task_category": "Chore",
-      "Time_in_Min": 20,
+      "Time_in_Min": "20", //Changed from int to string to fit the Dictionary/Hasp Map pattern...
       "Difficlty": "Intermediate",
-      "id": 10
+      "id": "10" //This too
     }
 
   ],
@@ -50,16 +50,16 @@
     {
       "Task_name": "Talk to Someone New Today",
       "Task_category": "Essentials",
-      "Time_in_Min": 5,
+      "Time_in_Min": "5", //Changed from int to string to fit the Dictionary/Hasp Map pattern...
       "Difficlty": "Hard",
-      "id": 6
+      "id": "6" //This too
     },
     {
       "Task_name": "Go Grocery Shopping",
       "Task_category": "Essentials",
-      "Time_in_Min": 120,
+      "Time_in_Min": "120", //Changed from int to string to fit the Dictionary/Hasp Map pattern...
       "Difficlty": "Easy",
-      "id": 15
+      "id": "15" //This too
     }
 
   ],
@@ -68,26 +68,26 @@
     {
       "Task_name": "You Choose What to do",
       "Task_category": "Activity",
-      "Time_in_Min": 60,
+      "Time_in_Min": "60", //Changed from int to string to fit the Dictionary/Hasp Map pattern...
       "Difficlty": "Easy",
-      "id": 13
+      "id": "13" //This too
     },
 
 
     {
       "Task_name": "Go Shopping for Yourself",
       "Task_category": "Activity",
-      "Time_in_Min": 180,
+      "Time_in_Min": "180", //Changed from int to string to fit the Dictionary/Hasp Map pattern...
       "Difficlty": "Easy",
-      "id": 16
+      "id": "16" //This too
     },
 
     {
       "Task_name": "Read a Book",
       "Task_category": "Activity",
-      "Time_in_Min": 30, //Up to the user
+      "Time_in_Min": "30", //Up to the user...Changed from int to string to fit the Dictionary/Hasp Map pattern...
       "Difficlty": "Easy",
-      "id": 2
+      "id": "2" //This too
     }
 
   ],
@@ -95,37 +95,37 @@
     {
       "Task_name": "Pick up a New Hobby",
       "Task_category": "Productivity",
-      "Time_in_Min": 60,
+      "Time_in_Min": "60", //Changed from int to string to fit the Dictionary/Hasp Map pattern...
       "Difficlty": "Hard",
-      "id": 11
+      "id": "11" //This too
     },
     {
       "Task_name": "Learn Something New",
       "Task_category": "Productivity",
-      "Time_in_Min": 15,
+      "Time_in_Min": "15", //Changed from int to string to fit the Dictionary/Hasp Map pattern...
       "Difficlty": "Intermediate",
-      "id": 4
+      "id": "4" //This too
     },
     {
       "Task_name": "Prepare for Tomorrow",
       "Task_category": "Productivity",
-      "Time_in_Min": 20,
+      "Time_in_Min": "20", //Changed from int to string to fit the Dictionary/Hasp Map pattern...
       "Difficlty": "Easy",
-      "id": 9
+      "id": "9" //This too
     },
     {
       "Task_name": "Pick up a New Hobby",
       "Task_category": "Productivity",
-      "Time_in_Min": 60,
+      "Time_in_Min": "60", //Changed from int to string to fit the Dictionary/Hasp Map pattern...
       "Difficlty": "Hard",
-      "id": 12
+      "id": "12" //This too
     },
     {
       "Task_name": "Look up a Cooking Recipe and Follow it",
       "Task_category": "Productivity",
-      "Time_in_Min": 60,
+      "Time_in_Min": "60", //Changed from int to string to fit the Dictionary/Hasp Map pattern...
       "Difficlty": "Hard",
-      "id": 8
+      "id": "8" //This too
     }
   ]
 }
