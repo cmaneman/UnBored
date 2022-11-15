@@ -1,7 +1,7 @@
-using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc; /*VS Copy*/
 using Newtonsoft.Json;
 using System.Net;
-using Unbored.Model;
+using System.IO;
 using Unbored.Models;
 
 namespace Unbored.Controllers
@@ -11,18 +11,20 @@ namespace Unbored.Controllers
         // GET: Task
         public IActionResult Index()
         {
+            var taskjson = System.IO.File.ReadAllLinesAsync(@"C:\Users\chris\OneDrive\Documents\Unbored\Unbored\Data\TaskData.json");
 
-
-            using (StreamReader jsonFile = File.OpenText(@"C:\Users\chris\OneDrive\Documents\Unbored\Unbored\Data\TaskData.json"))
+            if (taskjson == null)
             {
-                JsonSerializer serializer = new JsonSerializer();
-
-                ITask itask = (ITask)serializer.Deserialize(jsonFile, typeof(ITask));
+                Console.WriteLine("This is null...");
+                return View("Error");
             }
+            else
+            {
+                //ITask? mytask = JsonConvert.DeserializeObject<ITask>(taskjson);
+                IList<ITask> mytask = JsonConvert.DeserializeObject<IList<ITask>>(taskjson); //error
 
-
-
-            return View();
+                return View(taskjson);
+            }
         }
     }
 }
