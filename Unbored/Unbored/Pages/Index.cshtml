@@ -1,18 +1,25 @@
 ﻿@page
-
-@model Unbored.Models.ITask;
+@using Unbored.Models;
+@model Unbored.Models.Task;
 @{
     ViewData["Title"] = "Home page";
+    //ViewBag["Title"] = "Home page";
 }
 
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>
+    <h3>If there's something under this then it works.</h3>
     <p>
         @{
-            foreach (var task in Model.TaskD)//appearing as null...fix please
+            <h3> AssignedTask: @Model.AssignedTask</h3>
+            <h3>TaskType: @Model.TaskType </h3>
+            <h3>Time: @Model.Time </h3>
+            <h3>Difficulty: @Model.Difficulty </h3>
+            <h3>IDNumber: @Model.IDNumber </h3>
+            /*foreach (var task in Model.ViewData)//appearing as null...fix please
             {
-                @Html.DisplayFor(modeltask => task.AssignedTask);
-            }
+               @Html.DisplayFor(modeltask => task);
+            }*/
         }
 
     </p>

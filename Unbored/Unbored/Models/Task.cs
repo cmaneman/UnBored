@@ -1,9 +1,14 @@
-using System.Text.Json;
+using System.Text.Json; /*VS copy*/
 using System.Text.Json.Serialization;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Serialization;
+using Newtonsoft.Json.Converters;
+using Newtonsoft.Json.Linq;
 
-namespace Unbored.Model
+
+namespace Unbored.Models
 {
-    public class TaskData
+    public class Task //TaskData
     {
 
         [JsonPropertyName("task_assigned")]
