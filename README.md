@@ -25,3 +25,5 @@ https://docs.microsoft.com/en-us/aspnet/core/security/authentication/individual?
 
 -Docker Support?
 https://www.softwarepronto.com/2022/02/docker-containerizing-visual-studio.html#:~:text=When%20a.NET%206%2C%20ASP.NET%20Core%20project%20is%20created,Docker%20support%20to%20the%20ASP.NET%20core%20web%20application.
+
+https://scipax-cp.costpointfoundations.com/cpweb/cploginform.htm?1669777297
