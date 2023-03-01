@@ -1,0 +1,113 @@
+//Categories: Health, Chores, Essentials, Activity, Productivity
+
+{
+  "Task": [
+
+    {
+      "task_assigned": "Watch A Movie",
+      "trask_type": "Activity",
+      "approximate_time": "90m",
+      "difficulty": "Easy",
+      "id": "1"
+    },
+    {
+      "task_assigned": "Go for a Walk",
+      "task_type": "Health",
+      "approximate_time": "30m",
+      "difficulty": "Easy",
+      "id": "3"
+    },
+    {
+      "task_assigned": "Do a Tech Fast if Possible",
+      "task_type": "Health",
+      "approximate_time": "480m",
+      "difficulty": "Intermediate",
+      "id": "14"
+    },
+    {
+
+      "task_assigned": "Do Some Laundry Today",
+      "task_type": "Chore",
+      "approximate_time": "180m",
+      "difficulty": "Intermediate",
+      "id": "7"
+    },
+    {
+      "task_assigned": "Clean Something in your Residence",
+      "task_type": "Chore",
+      "approximate_time": "20m",
+      "difficulty": "Intermediate",
+      "id": "10"
+    },
+    {
+      "task_assigned": "Talk to Someone New Today",
+      "task_type": "Essentials",
+      "approximate_time": "5m",
+      "difficulty": "Hard",
+      "id": "6"
+    },
+    {
+      "task_assigned": "Go Grocery Shopping",
+      "task_type": "Essentials",
+      "approximate_time": "120m",
+      "difficulty": "Easy",
+      "id": "15"
+    },
+    {
+      "task_assigned": "You Choose What to do",
+      "task_type": "Activity",
+      "approximate_time": "60m",
+      "difficulty": "Easy",
+      "id": "13"
+    },
+    {
+      "task_assigned": "Go Shopping for Yourself",
+      "task_type": "Activity",
+      "approximate_time": "180m",
+      "difficulty": "Easy",
+      "id": "16"
+    },
+    {
+      "task_assigned": "Read a Book",
+      "task_type": "Activity",
+      "approximate_time": "30m",
+      "difficulty": "Easy",
+      "id": "2"
+    },
+    {
+      "task_assigned": "Pick up a New Hobby",
+      "task_type": "Productivity",
+      "approximate_time": "60m",
+      "difficulty": "Hard",
+      "id": "11"
+    },
+    {
+      "task_assigned": "Learn Something New",
+      "task_type": "Productivity",
+      "approximate_time": "15m",
+      "difficulty": "Intermediate",
+      "id": "4"
+    },
+    {
+      "task_assigned": "Prepare for Tomorrow",
+      "task_type": "Productivity",
+      "approximate_time": "20m",
+      "difficulty": "Easy",
+      "id": "9"
+    },
+    {
+      "task_assigned": "Pick up a New Hobby",
+      "task_type": "Productivity",
+      "approximate_time": "60m",
+      "difficulty": "Hard",
+      "id": "12"
+    },
+    {
+      "task_assigned": "Look up a Cooking Recipe and Follow it",
+      "task_type": "Productivity",
+      "approximate_time": "60m",
+      "difficulty": "Hard",
+      "id": "8"
+    }
+  ]
+}
