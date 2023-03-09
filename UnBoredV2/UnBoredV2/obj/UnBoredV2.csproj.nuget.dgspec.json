@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chris\\UnBoredV2\\UnBoredV2\\UnBoredV2.csproj": {}
+    "C:\\Users\\chris\\UnBored\\UnBoredV2\\UnBoredV2\\UnBoredV2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chris\\UnBoredV2\\UnBoredV2\\UnBoredV2.csproj": {
+    "C:\\Users\\chris\\UnBored\\UnBoredV2\\UnBoredV2\\UnBoredV2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chris\\UnBoredV2\\UnBoredV2\\UnBoredV2.csproj",
+        "projectUniqueName": "C:\\Users\\chris\\UnBored\\UnBoredV2\\UnBoredV2\\UnBoredV2.csproj",
         "projectName": "UnBoredV2",
-        "projectPath": "C:\\Users\\chris\\UnBoredV2\\UnBoredV2\\UnBoredV2.csproj",
+        "projectPath": "C:\\Users\\chris\\UnBored\\UnBoredV2\\UnBoredV2\\UnBoredV2.csproj",
         "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chris\\UnBoredV2\\UnBoredV2\\obj\\",
+        "outputPath": "C:\\Users\\chris\\UnBored\\UnBoredV2\\UnBoredV2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -58,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
